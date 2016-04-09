@@ -2,20 +2,44 @@ Please answer the below core-java Questions:
 
 
 What jdk contains or composed of and define each components?
+JDK contains the java platforms of Java SE, Java EE, or Java ME and is good for software development and testing
+
 What is IDE?
+IDE is a programs that stands for java Integrated Development Environment and good for users to more easily create and debug java programs
+
 What are the IDEs available in the market to support java?
+
 Explain the entire java life cycle.
+
 what is class?
+A class is a template to create different objects which can be defined by the objects properties and behaviors.
+
 What is object?
+An object is a part of the class that has specific properties and behaviors
+
 What is the entry point of an application?
+The entry point of an application is defined by main method
+
 Why main is static?
+Main method is static because it will not be necessary to make and define an object
+
 What is the difference between an Interface and Abstract class?
+
 Can you make an Object from an Interface and Abstract class ? if not how do you use it ?
 what is Access Specifier?
+Access specifier determines who as access to the program and can be either public(everyone) or private(encapsulation)
+
 What is OOP ? Define each feature of java OOP.
+OOP is object oriented programming language model that is organized around the objects and data rather than actions and logic
+
 What is API? Name list of API that you have used so far.
-Does java support multiple inheritance?
+
+Does java support multiple inheritance
+No, java does not support multiple inheritance because it can cause ambiguity
+
 What is method overloading and when it happens?
+Method overloading happens when the same class has two or more methods have the same name but the argument lists are different
+
 What is method overriding and when it happens?
 Explain exceptions in java and how to handle it.
 What is static keyword in java? How it has been used in variables and methods ?
